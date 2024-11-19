@@ -1,0 +1,14 @@
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\obj\Debug\net8.0\its_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\obj\Debug\net8.0\its_even.AssemblyInfoInputs.cache
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\obj\Debug\net8.0\its_even.AssemblyInfo.cs
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\obj\Debug\net8.0\its_even.csproj.CoreCompileInputs.cache
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\bin\Debug\net8.0\its_even.exe
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\bin\Debug\net8.0\its_even.deps.json
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\bin\Debug\net8.0\its_even.runtimeconfig.json
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\bin\Debug\net8.0\its_even.dll
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\bin\Debug\net8.0\its_even.pdb
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\obj\Debug\net8.0\its_even.dll
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\obj\Debug\net8.0\refint\its_even.dll
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\obj\Debug\net8.0\its_even.pdb
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\obj\Debug\net8.0\its_even.genruntimeconfig.cache
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\its_even\obj\Debug\net8.0\ref\its_even.dll
