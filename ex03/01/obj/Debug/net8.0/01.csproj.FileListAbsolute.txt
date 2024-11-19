@@ -1,0 +1,15 @@
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\bin\Debug\net8.0\01.exe
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\bin\Debug\net8.0\01.deps.json
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\bin\Debug\net8.0\01.runtimeconfig.json
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\bin\Debug\net8.0\01.dll
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\bin\Debug\net8.0\01.pdb
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\obj\Debug\net8.0\01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\obj\Debug\net8.0\01.AssemblyInfoInputs.cache
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\obj\Debug\net8.0\01.AssemblyInfo.cs
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\obj\Debug\net8.0\01.csproj.CoreCompileInputs.cache
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\obj\Debug\net8.0\01.sourcelink.json
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\obj\Debug\net8.0\01.dll
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\obj\Debug\net8.0\refint\01.dll
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\obj\Debug\net8.0\01.pdb
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\obj\Debug\net8.0\01.genruntimeconfig.cache
+C:\Users\JP\Desktop\linguagens\C#\Livro\NAKOV\Nakov\ex03\01\obj\Debug\net8.0\ref\01.dll
