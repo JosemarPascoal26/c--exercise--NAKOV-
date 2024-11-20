@@ -6,6 +6,8 @@ static int Main(string[] args)
     {
         Console.WriteLine("TRUE");
     }
+    else
+        Console.WriteLine("\n");
     return (0); 
 }
 }
